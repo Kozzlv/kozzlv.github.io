@@ -20,6 +20,7 @@
      // API initialization failed 
      // Can reload page here 
 }, '5.74');
+      VK.callMethod("showInviteBox");
     </script>
   </head>
   <body>
@@ -27,7 +28,6 @@
       <div id="gameContainer" style="width: 1000px; height: 750px"></div>
       <div class="footer">
         <div class="webgl-logo"></div>
-        <input type = "button" value = "Пригласить друзей" onclick = "VK.callMethod("showInviteBox");"></a>
         <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
         <div class="title">Полный экран</div>
       </div>
