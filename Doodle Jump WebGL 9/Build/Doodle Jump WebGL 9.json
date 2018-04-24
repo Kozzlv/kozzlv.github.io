@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Doodle Jump WebGL 9.data.unityweb",
+"asmCodeUrl": "Doodle Jump WebGL 9.asm.code.unityweb",
+"asmMemoryUrl": "Doodle Jump WebGL 9.asm.memory.unityweb",
+"asmFrameworkUrl": "Doodle Jump WebGL 9.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
