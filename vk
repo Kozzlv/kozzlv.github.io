@@ -1,2 +1,19 @@
 <html>
+<head>
+<script type="text/javascript">
+        function get() {
+            document.cookie = "new=5";
+            var cookies = document.cookie;
+            alert(cookies);
+        }
+
+
+
+    </script>
+</head>
+<body>
+    взламывалка самого себя
+    <input type="button" name="vzlom" value="Поиск куки" onclick="get();" />
+
+</body>
 </html>
