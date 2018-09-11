@@ -1,0 +1,16 @@
+function sa1(){if(bablo >= 1000){bablo = bablo - 1000; babki();}else alert('Нужно больше золота!');};
+function sa2(){if(bablo >= 2000){bablo = bablo - 2000; babki();}else alert('Нужно больше золота!');};
+function sa3(){if(bablo >= 5000){bablo = bablo - 5000; babki();}else alert('Нужно больше золота!');};
+function sa4(){if(bablo >= 10000){bablo = bablo - 10000; babki();}else alert('Нужно больше золота!');};
+function sa5(){if(bablo >= 20000){bablo = bablo - 20000; babki();}else alert('Нужно больше золота!');};
+function sa6(){if(bablo >= 50000){bablo = bablo - 50000; babki();}else alert('Нужно больше золота!');};
+function sa7(){if(bablo >= 100000){bablo = bablo - 100000; babki();}else alert('Нужно больше золота!');};
+function sa8(){if(bablo >= 200000){bablo = bablo - 200000; babki();}else alert('Нужно больше золота!');};
+function sa9(){if(bablo >= 500000){bablo = bablo - 500000; babki();}else alert('Нужно больше золота!');};
+function sa10(){if(bablo >= 1000000){bablo = bablo - 1000000; babki();}else alert('Нужно больше золота!');};
+function sa11(){if(bablo >= 2000000){bablo = bablo - 2000000; babki();}else alert('Нужно больше золота!');};
+function sa12(){if(bablo >= 5000000){bablo = bablo - 5000000; babki();}else alert('Нужно больше золота!');};
+function sa13(){if(bablo >= 10000000){bablo = bablo - 10000000; babki();}else alert('Нужно больше золота!');};
+function sa14(){if(bablo >= 20000000){bablo = bablo - 20000000; babki();}else alert('Нужно больше золота!');};
+function sa15(){if(bablo >= 50000000){bablo = bablo - 50000000; babki();}else alert('Нужно больше золота!');};
+function sa16(){if(bablo >= 100000000){bablo = bablo - 100000000; babki();}else alert('Нужно больше золота!');};
