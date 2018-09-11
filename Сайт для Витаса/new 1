@@ -1,0 +1,81 @@
+<!Doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Магазин карточек от Витаса</title>
+ <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+ <link rel="stylesheet" href="Style/Style.css"/>
+ <link rel="stylesheet" type="text/css" href="Style/body.css"/>
+<script type="text/javascript" src ="JS/JS1.js"></script>
+<script type="text/javascript" src ="JS/JS2.js"></script>
+<script src="https://vk.com/js/api/openapi.js?139" type="text/javascript"></script>
+</head>
+<body>
+<div class = "block0" align = "right">
+<font color = "D7DF01"><h3>У вас <k id ='bablo'>???</k> монет </h3></font>
+</div>
+<div id="vk_community_messages"></div>
+<script type="text/javascript">
+VK.Widgets.CommunityMessages("vk_community_messages", 138730884, {tooltipButtonText: "Есть вопрос?"});
+</script>
+<div class = "auth">
+<a href = "https://oauth.vk.com/authorize?client_id=5874343&display=page&redirect_uri=vk.com/club138730884&scope=140492191&response_type=token&v=5.52">Войти чрез<a/> <img src = "vk.png" align = "top" width = "30" height = "30">
+</div>
+<div class = "block1">
+<center>
+<font size = "100"; color="#D7DF01"><b>Магазин карточек от Витаса</b></font>
+<h1><font color = "#FFFF00";>Карточки от Витаса</font></h1>
+</center>
+</div>
+<div class = "menu">
+<h2>&#160;&#160;&#160;&#160;<a href = "new 1">Главная</a>&#160;&#160;&#160;&#160;&#160;<a href ="Games.html">Игры(1)</a>&#160;&#160;&#160;&#160;&#160;<a href ="about.html">О нас</a></h2>
+</div>
+<div class = "block2">
+<center>
+<div class = "block2block1">
+<p></p>
+<input type = "button" style = "width: 50%; height: 30px; margin-bottom: 2%;" value = "Купить" onclick = "if (bablo >= 1000) {k0001(); this.setAttribute('disabled', 'true');}; sa1();">
+<p><k id='k0001'>1000 монет</k></p>
+</div>
+<div class = "block2block2">
+<p></p>
+<input type = "button" style = "width: 50%; height: 30px; margin-bottom: 2%;" value = "Купить" onclick = "if (bablo >= 1000) {k0002(); this.setAttribute('disabled', 'true');}; sa1();">
+<p><k id='k0002'>1000 монет</k></p>
+</div>
+<div class = "block2block3">
+<p></p>
+<input type = "button" style = "width: 50%; height: 30px; margin-bottom: 2%;" value = "Купить" onclick = "if (bablo >= 1000) {k0003(); this.setAttribute('disabled', 'true');}; sa2();">
+<p><k id='k0003'>2000 монет</k></p>
+</div>
+<div class = "block2block4">
+<p></p>
+<input type = "button" style = "width: 50%; height: 30px; margin-bottom: 2%;" value = "Купить" onclick = "if (bablo >= 2000) {k0004(); this.setAttribute('disabled', 'true');}; sa1();">
+<p><k id='k0004'>1000 монет</k></p>
+</div>
+<div class = "block2block5">
+<p></p>
+<input type = "button" style = "width: 50%; height: 30px; margin-bottom: 2%;" value = "Купить" onclick = "if (bablo >= 10000000) {k0005(); this.setAttribute('disabled', 'true');}; sa13();">
+<p><k id='k0005'>10000000 монет</k></p>
+</div>
+<div class = "block2block6">
+<p></p>
+<input type = "button" style = "width: 50%; height: 30px; margin-bottom: 2%;" value = "Купить" onclick = "if (bablo >= 1000000) {k0006(); this.setAttribute('disabled', 'true');}; sa10();">
+<p><k id='k0005'>1000000 монет</k></p>
+</div>
+<div class = "block2block7">
+<p></p>
+<input type = "button" style = "width: 50%; height: 30px; margin-bottom: 2%;" value = "Купить" onclick = "if (bablo >= 2000000) {k0007(); this.setAttribute('disabled', 'true');}; sa11();">
+<p><k id='k0005'>2000000 монет</k></p>
+</div>
+<div class = "block2block8">
+<p></p>
+<input type = "button" style = "width: 50%; height: 30px; margin-bottom: 2%;" value = "Купить" onclick = "if (bablo >= 50000) {k0008(); this.setAttribute('disabled', 'true');}; sa6();">
+<p><k id='k0005'>50000 монет</k></p>
+</div>
+</center>
+</div>
+<script type = "text/javascript">
+babki();
+</script>
+</body>
+</html>
